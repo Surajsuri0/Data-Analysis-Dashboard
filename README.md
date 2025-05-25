@@ -17,12 +17,12 @@ The IPL Data Analysis project aims to explore and summarize key performance metr
 
 - Dashboard Interaction <a href="https://github.com/Surajsuri0/Data-Analysis-Dashboard/blob/main/IPL%20Analysis%20Dashboard.png">View Dashboard</a>
 
-##Process
+## Process
 - Verified the IPL dataset for missing values, inconsistencies, and cleaned anomalies.
 - Ensured data was properly structured by standardizing column types, formats, and categories.
 - Created pivot tables to answer key performance questions like top teams, players, and venues.
 - Combined all pivot tables into a single interactive dashboard and applied slicers for dynamic filtering.
 
-##Dashboard
+## Dashboard
 ![IPL Analysis Dashboard](https://github.com/user-attachments/assets/4f18ce81-36b3-41c2-889b-7199ef3aa9c9)
 
