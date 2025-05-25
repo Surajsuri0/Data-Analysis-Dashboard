@@ -14,3 +14,5 @@ The IPL Data Analysis project aims to explore and summarize key performance metr
 - Which players have the highest number of Man of the Match awards?
 - How many matches were played each season?
 - Which stadium hosted the most matches?
+
+- Dashboard Interaction <a href="https://github.com/Surajsuri0/Data-Analysis-Dashboard/blob/main/IPL%20Analysis%20Dashboard.png">View Dashboard</a>
